@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Photo and video frame</string>
+
+    <string name="error_no_permission">To function properly, app needs your permission. Go to Settings and allow permission for Storage</string>
+    <string name="error_something_wrong">Something went wrong. Try again please</string>
+    <string name="error_images_and_videos_not_found">We didn\'t find any images and videos on your device</string>
+    <string name="error_not_a_number">This not a number</string>
+
+    <string name="lbl_slideshow_interval">Slideshow interval (in sec)</string>
+
+    <string name="btn_retry">Retry</string>
+    <string name="btn_try_again">Try again</string>
+    <string name="btn_go_to_settings">Settings</string>
+</resources>
